@@ -31,7 +31,7 @@ Here are some of the projects I've worked on:
 ## Find Me Elsewhere
 
 
-- [LinkedIn](linkedin.com/in/cobbina-emmanuel-376072209)
+- [LinkedIn](linkedin.com/in/cobbina-emmanuel-376072209){:target="_blank"}
 - [Twitter](https://twitter.com/kobbyj099)
 
 
