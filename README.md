@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Cobbina Emmanuel (a.k.a Kobby Jones) 
 
-I'm a front-end developer and I'm passionate about creating responsive and user-friendly web interfaces. Welcome to my GitHub profile!
+I'm a Web developer and I'm passionate about creating responsive and user-friendly web interfaces. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🔭 I’m currently working on improving my JavaScript skills.
-- 🌱 I’m currently learning React and Node.js.
-- 👯 I’m looking to collaborate on any project that involves front-end development or web design.
+- 🌱 I’m currently learning React and Django.
+- 👯 I’m looking to collaborate on any project that involves front-end and back-end development or web design.
 - 📫 How to reach me: [kobbyj099@gmail.com](mailto:kobbyj099@gmail.com)
 
 
@@ -18,7 +18,7 @@ Here are some of the languages and tools I'm familiar with:
 - CSS
 - JavaScript
 - Bootstrap
-- Currently learning ReactJs
+- Currently learning ReactJs and Django
 
 ## Projects
 
