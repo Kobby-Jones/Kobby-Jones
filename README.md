@@ -18,7 +18,9 @@ Here are some of the languages and tools I'm familiar with:
 - CSS
 - JavaScript
 - Bootstrap
-- Currently learning ReactJs and Django
+- ReactJs
+- Django
+- SQL
 
 ## Projects
 
